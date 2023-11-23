@@ -14,12 +14,12 @@
 
 <br>
 
-<p align="center">
+<div align="center">
   <img alt="projeto Fotoblog" src=".github/mobile_preview.jpg" 
-  width="100%">
+  width="25%">
   <img alt="projeto Fotoblog" src=".github/desktop_preview.jpg" 
-  width="100%">
-</p>
+  width="50%">
+</div>
 
 ## 🚀 Tecnologias
 
